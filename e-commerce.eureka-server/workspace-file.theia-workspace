@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": ""
+    },
+    {
+      "path": "file:///e%3A/e-commerce-application/orderdetails/orderdetails"
+    },
+    {
+      "path": "file:///e%3A/e-commerce-application/config-server/config-server"
+    },
+    {
+      "path": "file:///e%3A/e-commerce-application/userdetails/userdetails"
+    },
+    {
+      "path": "file:///e%3A/e-commerce-application/api-gateway/api-gateway"
+    },
+    {
+      "path": "file:///e%3A/e-commerce-application/cartdetails/cartdetails"
+    }
+  ],
+  "settings": {
+    "java.compile.nullAnalysis.mode": "automatic"
+  }
+}
